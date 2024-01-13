@@ -10,7 +10,7 @@ jobs:
     name: Update README
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.waka_a15ada02-34d1-4bc0-b46d-8295521e1c96 }}
           GH_TOKEN: ${{ secrets.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 }}
