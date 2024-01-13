@@ -49,9 +49,9 @@ Here are some ideas to get you started:
 
 !GitHub Streak
 
-- 📊 这是我的社交统计：
+- 📊 这是Metrics ：
 
-<div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
+![Metrics](https://metrics.lecoq.io/robot-WT?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
 
 - ✍️ 这是我的打字特效：
 
