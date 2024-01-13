@@ -27,13 +27,6 @@ Here are some ideas to get you started:
 - 🔥 连续提交天数：
  <div align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=robot-WT" /> </div>
  
-- 📈 活动图：
-- 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=robot-WT&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-
 - 📊 代码统计
 <!--START_SECTION:waka-->
 
@@ -48,3 +41,7 @@ Python   0 hrs 4 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 - 🌐 语言比例：
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robot-WT&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
+- 📈 活动图：
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=robot-WT&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
