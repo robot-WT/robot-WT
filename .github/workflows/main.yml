@@ -26,8 +26,8 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config --local user.email "1873814679@qq.com"
-          git config --local user.name "robot-WT"
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
           git add -A
           git diff-index --quiet HEAD || git commit -m "Update followers"
 
