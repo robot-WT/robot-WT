@@ -40,4 +40,6 @@ Here are some ideas to get you started:
 - 📊 Metrics ：
 
 <div align="center"> <img src="https://metrics.lecoq.io/robot-WT?template=classic&config.timezone=Asia%2FShanghai"> </div>
-
+- 代码统计
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
