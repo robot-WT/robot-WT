@@ -1,40 +1,20 @@
-name: Get Followers
+name: WakaTime Readme
 
 on:
-  push:
-    branches:
-      - master
-  schedule:
-    - cron: '0 22 * * *'
   workflow_dispatch:
+  schedule:
+    - cron: '0 20 * * *'
 
 jobs:
-  followers:
+  update-readme:
+    name: Update README
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - name: Setup python
-        uses: actions/setup-python@v4
+      - uses: athul/waka-readme@master
         with:
-          python-version: 3.8
-
-      - name: Install requests
-        run: pip install requests
-
-      - name: Update README
-        run: python src/followers.py ${{ github.repository_owner }} ${{ secrets.GH_TOKEN }} README.md
-
-      - name: Commit changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add -A
-          git diff-index --quiet HEAD || git commit -m "Update followers"
-
-      - name: Pull changes
-        run: git pull -r
-
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GH_TOKEN }}
+          API_BASE_URL: ${{ secrets.WAKAPI_BASE_URL }}
+          WAKATIME_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
+          COMMIT_MESSAGE: Update Wakapi stats
+          BLOCKS: "⬜🟨🟩"
+          TIME_RANGE: last_30_days
+          SHOW_TIME: true
