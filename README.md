@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 📊 这是我的GitHub统计卡片：
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robot-WT)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robot-WT&show_icons=true)
 
 - 🌐 这是我的使用语言比例：
 
