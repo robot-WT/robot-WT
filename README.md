@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 📈 这是我的GitHub活动图：
 
-!robot-WT's github activity graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=robot-WT&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 - 🔥 这是我的GitHub连续提交天数：
 
