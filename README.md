@@ -22,10 +22,8 @@ Here are some ideas to get you started:
 
 - 📊 统计卡片：
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robot-WT&show_icons=true&theme=radical)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robot-WT&show_icons=true&theme=radical) 
 - 📈 活动图：
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=robot-WT&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 - 🔥 连续提交天数：
