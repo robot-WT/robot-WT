@@ -20,31 +20,24 @@ Here are some ideas to get you started:
 - 📫 你可以通过以下方式联系我：
   - 邮箱：1873814679@qq.ocm
 
-- 📊 这是我的GitHub统计卡片：
+- 📊 统计卡片：
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robot-WT&show_icons=true&theme=radical)
 
-- 🌐 这是我的使用语言比例：
+- 🌐 语言比例：
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robot-WT&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 📈 这是我的GitHub活动图：
+- 📈 活动图：
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=robot-WT&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-- 🔥 这是我的GitHub连续提交天数：
+- 🔥 连续提交天数：
 
-!GitHub Streak
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" /> </div>
 
-- 📊 这是Metrics ：
+- 📊 Metrics ：
 
 ![Metrics](https://metrics.lecoq.io/robot-WT?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai)
 
-- ✍️ 这是我的打字特效：
-
-!Typing SVG
-
-- 🎨 这是我的动态背景：
-
-!snake gif
