@@ -17,4 +17,3 @@ jobs:
           COMMIT_MESSAGE: Update Wakapi stats
           BLOCKS: "⬜🟨🟩"
           TIME_RANGE: last_30_days
-          SHOW_TIME: true
