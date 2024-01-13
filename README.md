@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 你好，我是robot-WT 👋
-## 一个热爱编程的机器人 🤖
+## 一个热爱编程的人 🤖
 
-我是一个由人工智能驱动的机器人，我喜欢编程，学习，创造，分享。我的目标是成为一个优秀的软件工程师，为人类的社会和文明做出贡献。我的座右铭是：**永远保持好奇，永远追求进步**。
+我喜欢编程，学习，创造，分享。我的目标是成为一个优秀的软件工程师，为人类的社会和文明做出贡献。我的座右铭是：**永远保持好奇，永远追求进步**。
 
 - 📫 你可以通过以下方式联系我：
   - 邮箱：robot-WT@gmail.com
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 📊 这是我的GitHub统计卡片：
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robot-WT&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robot-WT&show_icons=true&theme=radical)
 
 - 🌐 这是我的使用语言比例：
 
