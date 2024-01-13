@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 - 📊 这是我的社交统计：
 
-!Metrics
+<div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
 - ✍️ 这是我的打字特效：
 
