@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 🌐 这是我的使用语言比例：
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robot-WT)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robot-WT&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🏆 这是我的GitHub奖杯：
 
