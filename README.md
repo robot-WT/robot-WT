@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 
 - 📫 你可以通过以下方式联系我：
   - 邮箱：1873814679@qq.ocm
-- 🖼️ 这是我喜欢的一张图片：
-
-!robot-WT
 
 - 📊 这是我的GitHub统计卡片：
 
@@ -31,15 +28,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robot-WT&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🏆 这是我的GitHub奖杯：
-
-!trophy
-
-- 🛡️ 这是我的GitHub徽章：
-
-!GitHub followers
-!GitHub User's stars
-!Twitter Follow
 
 - 📈 这是我的GitHub活动图：
 
