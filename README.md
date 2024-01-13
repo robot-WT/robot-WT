@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **robot-WT/robot-WT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,16 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 你好，我是robot-WT 👋
-## 一个热爱编程的人 🤖
+## 一个热爱编程的人
 
 我喜欢编程，学习，创造，分享。我的目标是成为一个优秀的软件工程师，为人类的社会和文明做出贡献。我的座右铭是：**永远保持好奇，永远追求进步**。
 
 - 📫 你可以通过以下方式联系我：
-  - 邮箱：robot-WT@gmail.com
-  - 博客：https://robot-WT.github.io
-  - 微博：https://weibo.com/robot-WT
-  - 掘金：https://juejin.cn/user/robot-WT
-  - 知乎：https://www.zhihu.com/people/robot-WT
+  - 邮箱：1873814679@qq.ocm
 - 🖼️ 这是我喜欢的一张图片：
 
 !robot-WT
@@ -35,7 +29,7 @@ Here are some ideas to get you started:
 
 - 🌐 这是我的使用语言比例：
 
-!Top Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robot-WT)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🏆 这是我的GitHub奖杯：
 
