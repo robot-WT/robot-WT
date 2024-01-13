@@ -21,7 +21,6 @@ jobs:
           ### content
           SHOW_TITLE: true 
           SECTION_NAME: waka 
-          SHOW_TIME: true
           SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: false # optional
           STOP_AT_OTHER: true # optional
