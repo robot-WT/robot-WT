@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robot-WT&show_icons=true&theme=radical)         
 
 - 🔥 连续提交天数：
- <div align="right"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=robot-WT" /> </div>
+ <div align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=robot-WT" /> </div>
  
 - 📈 活动图：
 - 
