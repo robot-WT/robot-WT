@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 - 📊 代码统计
 <!--START_SECTION:waka-->
 
-```txt
+```rust
 Total Time: 0 hrs 4 mins
 
 Python   0 hrs 4 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
