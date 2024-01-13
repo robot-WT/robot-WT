@@ -37,9 +37,7 @@ Here are some ideas to get you started:
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=robot-WT" /> </div>
 
-- 📊 Metrics ：
 
-<div align="center"> <img src="https://metrics.lecoq.io/robot-WT?template=classic&config.timezone=Asia%2FShanghai"> </div>
 - 📊 代码统计
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
