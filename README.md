@@ -38,10 +38,11 @@ Python   0 hrs 4 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 
 <!--END_SECTION:waka-->
 
-- 🌐 语言比例：
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robot-WT&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
 - 📈 活动图：
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=robot-WT&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+- 🌐 语言比例：
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robot-WT&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
