@@ -31,13 +31,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 0 hrs 21 mins
+Total Time: 0 hrs 41 mins
 
-C++      0 hrs 8 mins    >>>>>>>>>>---------------   38.51 %
-Python   0 hrs 8 mins    >>>>>>>>>----------------   36.56 %
-C        0 hrs 5 mins    >>>>>>-------------------   23.80 %
-Text     0 hrs 0 mins    -------------------------   00.65 %
-JSON     0 hrs 0 mins    -------------------------   00.49 %
+C++       0 hrs 17 mins   >>>>>>>>>>---------------   41.23 %
+unknown   0 hrs 12 mins   >>>>>>>------------------   28.03 %
+Python    0 hrs 8 mins    >>>>>--------------------   18.28 %
+C         0 hrs 5 mins    >>>----------------------   11.90 %
+Text      0 hrs 0 mins    -------------------------   00.32 %
 ```
 
 <!--END_SECTION:waka-->
