@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 ```rust
 Total Time: 5 hrs 35 mins
 
-unknown       0 hrs 31 mins   >>>>>>>>>>---------------   40.08 %
-C++           0 hrs 17 mins   >>>>>>-------------------   22.22 %
-Bash          0 hrs 16 mins   >>>>>--------------------   21.10 %
-Python        0 hrs 8 mins    >>-----------------------   09.85 %
-C             0 hrs 5 mins    >>-----------------------   06.41 %
+C++       0 hrs 17 mins   >>>>>>>>>>---------------   40.63 %
+unknown   0 hrs 12 mins   >>>>>>>------------------   27.62 %
+Python    0 hrs 8 mins    >>>>>--------------------   18.01 %
+C         0 hrs 5 mins    >>>----------------------   11.73 %
+Bash      0 hrs 1 mins    -------------------------   01.44 %
 ```
 
 <!--END_SECTION:waka-->
