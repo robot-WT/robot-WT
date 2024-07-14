@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 ```rust
 Total Time: 97 hrs 52 mins
 
-Python        33 hrs 44 mins  >>>>>>>>>----------------   34.48 %
-unknown       33 hrs 0 mins   >>>>>>>>-----------------   33.72 %
+Python        33 hrs 44 mins  >>>>>>>>>----------------   34.47 %
+unknown       33 hrs 0 mins   >>>>>>>>-----------------   33.73 %
 C++           15 hrs 58 mins  >>>>---------------------   16.32 %
 YAML          8 hrs 54 mins   >>-----------------------   09.10 %
 Text          2 hrs 2 mins    >------------------------   02.07 %
